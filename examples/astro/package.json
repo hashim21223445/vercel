@@ -10,7 +10,7 @@
   "dependencies": {
     "@astrojs/vercel": "7.6.0",
     "astro": "^4.9.2",
-    "react": "18.3.1",
+    "react": "19.0.0",
     "web-vitals": "^4.0.1"
   }
 }
