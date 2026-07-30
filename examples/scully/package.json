@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@angular/animations": "~9.0.0-rc.7",
-    "@angular/common": "~9.0.0-rc.7",
-    "@angular/compiler": "~9.0.0-rc.7",
-    "@angular/core": "~9.0.0-rc.7",
+    "@angular/common": "~20.3.25",
+    "@angular/compiler": "~20.3.25",
+    "@angular/core": "~20.3.25",
     "@angular/forms": "~9.0.0-rc.7",
     "@angular/platform-browser": "~9.0.0-rc.7",
     "@angular/platform-browser-dynamic": "~9.0.0-rc.7",
